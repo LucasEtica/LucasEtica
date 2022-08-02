@@ -1,6 +1,6 @@
 # Saudações! <img src="https://user-images.githubusercontent.com/95707145/182452643-7af325a3-d949-4888-902d-667835518b67.gif" style="width:50px" >
 <p> 
-  <img align="right" src="https://user-images.githubusercontent.com/95707145/182435542-77785580-7677-48b7-ad31-4502e3cb6de8.gif" style="width:600px">
+  <img align="right" src="https://user-images.githubusercontent.com/95707145/182435542-77785580-7677-48b7-ad31-4502e3cb6de8.gif" style="width:550px">
   <b style="color:#808080"> Meu nome é Lucas Ribacki, estou em uma jornada de conhecimento nesse fantástico mundo da tecnologia!</b>
 </p>
 
