@@ -1,10 +1,8 @@
 # Saudações! <img src="https://user-images.githubusercontent.com/95707145/182452643-7af325a3-d949-4888-902d-667835518b67.gif" style="width:50px" >
 <p> 
-  <img align="right" src="https://user-images.githubusercontent.com/95707145/182435542-77785580-7677-48b7-ad31-4502e3cb6de8.gif" style="width:550px">
+  <img align="right" src="https://user-images.githubusercontent.com/95707145/182435542-77785580-7677-48b7-ad31-4502e3cb6de8.gif" style="width:520px">
   <b style="color:#808080"> Eu sou Lucas e estou em uma jornada de conhecimento nesse mundo fantástico da tecnologia, todo dia é dia de aprender coisas novas e passá-las adiante!</b>
 </p>
-
-<br>
 
 <h2> Full Stack Ruby on Rails Programmer - Apprentice </h2>
 <h3> Cursando Ciências da Computação na Universidade Comunitária da Região de Chapecó </h3>
