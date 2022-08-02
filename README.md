@@ -6,7 +6,7 @@
 
 <h2> Full Stack Ruby on Rails Programmer - Apprentice </h2>
 <h3> Cursando Ciências da Computação na Universidade Comunitária da Região de Chapecó </h3>
-<p> 
+<h4> 
   Obrigado por visitar meu perfil! <img src="https://user-images.githubusercontent.com/95707145/182451612-c7e796b9-5ac4-4021-9d9f-036927d87391.gif" style="width:80px" >
-</p>
+</h4>
 
