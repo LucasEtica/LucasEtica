@@ -36,13 +36,13 @@
 <img align="left" src="https://user-images.githubusercontent.com/95707145/182601678-745128a1-7211-43a0-9673-899c51ee6425.png" style="width:40px">
 <img align="left" src="https://user-images.githubusercontent.com/95707145/182602023-7485f8a4-3a11-4f72-b6ce-e209e0785d9e.png" style="width:40px">
 <img align="left" src="https://user-images.githubusercontent.com/95707145/182602403-08bd74f3-891a-40c1-8e8a-f74604a54935.png" style="width:60px">
-<img align="left" src="https://user-images.githubusercontent.com/95707145/182603038-5c569141-fe92-4da8-841d-650d72ae892e.png" style="width:40px">
-<img align="left" src="https://user-images.githubusercontent.com/95707145/182603803-05fe34df-feec-42e9-a674-6331eee9766f.gif" style="width:60px">
+<img align="left" src="https://user-images.githubusercontent.com/95707145/182603038-5c569141-fe92-4da8-841d-650d72ae892e.png" style="width:45px">
+<img align="left" src="https://user-images.githubusercontent.com/95707145/182604586-3fa1294c-af85-40ec-afde-c66b0271efb9.png" style="width:50px">
+<img align="left" src="https://user-images.githubusercontent.com/95707145/182604938-a77d6b79-4319-4231-aa7f-d584814b1ee7.png" style="width:50px">
 <br>
 <br>
 
 
-![1-7]()
 
 
 
