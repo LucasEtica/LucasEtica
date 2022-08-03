@@ -48,11 +48,10 @@
 <img align="left" src="https://user-images.githubusercontent.com/95707145/182658294-6aa031ec-adc2-44f7-b5c2-5d0ab2bc0d5e.gif" style="width:40px">
 <img align="left" src="https://user-images.githubusercontent.com/95707145/182658642-e9297a86-ac3b-476c-8f17-00a79013a8e9.gif" style="width:40px">
 <img align="left" src="https://user-images.githubusercontent.com/95707145/182659559-bcbf421b-11e7-4a82-a99a-fd15251ae862.png" style="width:40px">
-<img align="left" src="https://user-images.githubusercontent.com/95707145/182671779-9f56d527-b5ba-4bc1-a596-34d195077796.png" style="width:40px">
-
+<img align="left" src="https://user-images.githubusercontent.com/95707145/182672099-c484c4c9-b500-4aea-aec9-52f40eb0d87a.png" style="width:40px">
 
 <br>
-
+<br>
 
 <h4> 
   Obrigado por visitar meu perfil! 
