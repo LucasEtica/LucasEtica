@@ -25,6 +25,27 @@
 <br>
 <br>
 
+<h2>
+  Alguma noção ou interesse
+</h2>
+
+<img align="left" src="https://user-images.githubusercontent.com/95707145/182598934-350f60f2-80e4-4cdc-b1c9-7e38bc631343.gif" style="width:40px">
+<img align="left" src="https://user-images.githubusercontent.com/95707145/182599646-aec237ea-2b5e-4be3-9a43-d890bec1c62c.gif" style="width:40px">
+<img align="left" src="https://user-images.githubusercontent.com/95707145/182600814-48b65430-50a7-42b9-bf00-8cdbf21c2073.jpg" style="width:40px">
+<img align="left" src="https://user-images.githubusercontent.com/95707145/182601096-5e545866-66eb-481c-9d0d-9e0b1572851a.gif" style="width:40px">
+<img align="left" src="https://user-images.githubusercontent.com/95707145/182601678-745128a1-7211-43a0-9673-899c51ee6425.png" style="width:40px">
+<img align="left" src="https://user-images.githubusercontent.com/95707145/182602023-7485f8a4-3a11-4f72-b6ce-e209e0785d9e.png" style="width:40px">
+<img align="left" src="https://user-images.githubusercontent.com/95707145/182602403-08bd74f3-891a-40c1-8e8a-f74604a54935.png" style="width:60px">
+<img align="left" src="https://user-images.githubusercontent.com/95707145/182603038-5c569141-fe92-4da8-841d-650d72ae892e.png" style="width:40px">
+<img align="left" src="https://user-images.githubusercontent.com/95707145/182603493-bbc12294-9023-4112-b6fb-68424ec44d81.gif" style="width:40px">
+<br>
+<br>
+
+
+
+
+
+
 <h4> 
   Obrigado por visitar meu perfil! <img src="https://user-images.githubusercontent.com/95707145/182451612-c7e796b9-5ac4-4021-9d9f-036927d87391.gif" style="width:80px" >
 </h4>
