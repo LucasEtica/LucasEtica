@@ -39,7 +39,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/95707145/182603038-5c569141-fe92-4da8-841d-650d72ae892e.png" style="width:45px">
 
 <br>
-<br>
+
 <br>
 
 <img align="left" src="https://user-images.githubusercontent.com/95707145/182660693-0b14a9e7-1418-42ac-92b1-ab368b51934a.png" style="width:70px">
@@ -50,8 +50,6 @@
 <img src="https://user-images.githubusercontent.com/95707145/182659559-bcbf421b-11e7-4a82-a99a-fd15251ae862.png" style="width:40px">
 
 
-<br>
-<br>
 <br>
 
 <h4> 
