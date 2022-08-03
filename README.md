@@ -43,10 +43,7 @@
 <br>
 
 
-
-
-
-
 <h4> 
-  Obrigado por visitar meu perfil! <img src="https://user-images.githubusercontent.com/95707145/182451612-c7e796b9-5ac4-4021-9d9f-036927d87391.gif" style="width:80px" >
+  Obrigado por visitar meu perfil! 
 </h4>
+<img src="https://user-images.githubusercontent.com/95707145/182451612-c7e796b9-5ac4-4021-9d9f-036927d87391.gif" style="width:80px" >
