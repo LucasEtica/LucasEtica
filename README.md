@@ -29,7 +29,7 @@
   Alguma noção ou interesse
 </h2>
 
-<img align="left" src="https://user-images.githubusercontent.com/95707145/182598934-350f60f2-80e4-4cdc-b1c9-7e38bc631343.gif" style="width:40px">
+<img align="left" src="https://user-images.githubusercontent.com/95707145/182606055-31397eef-4892-4985-9937-f16b8470ada1.gif" style="width:40px">
 <img align="left" src="https://user-images.githubusercontent.com/95707145/182599646-aec237ea-2b5e-4be3-9a43-d890bec1c62c.gif" style="width:40px">
 <img align="left" src="https://user-images.githubusercontent.com/95707145/182600814-48b65430-50a7-42b9-bf00-8cdbf21c2073.jpg" style="width:40px">
 <img align="left" src="https://user-images.githubusercontent.com/95707145/182601096-5e545866-66eb-481c-9d0d-9e0b1572851a.gif" style="width:40px">
@@ -41,7 +41,6 @@
 <img align="left" src="https://user-images.githubusercontent.com/95707145/182604938-a77d6b79-4319-4231-aa7f-d584814b1ee7.png" style="width:50px">
 <br>
 <br>
-
 
 <h4> 
   Obrigado por visitar meu perfil! 
