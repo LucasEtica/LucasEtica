@@ -1,6 +1,6 @@
 # Saudações! <img src="https://user-images.githubusercontent.com/95707145/182452643-7af325a3-d949-4888-902d-667835518b67.gif" style="width:50px" >
 <p> 
-  <img align="right" src="https://user-images.githubusercontent.com/95707145/182435542-77785580-7677-48b7-ad31-4502e3cb6de8.gif" style="width:520px">
+  <img align="right" src="https://user-images.githubusercontent.com/95707145/185107987-b4a0c019-5a9f-4e43-a5fa-67a24e51f4a8.gif" style="width:520px">
   <b style="color:#808080"> Eu sou Lucas! Estou em uma jornada de conhecimento nesse mundo fantástico da tecnologia, todo dia é dia de aprender coisas novas e passá-las adiante!</b>
 </p>
 
@@ -24,6 +24,7 @@
 
 <br>
 <br>
+
 
 <h2>
   Alguma noção ou interesse
