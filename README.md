@@ -4,7 +4,7 @@
   <b style="color:#808080"> Eu sou Lucas! Estou em uma jornada de conhecimento nesse mundo fantástico da tecnologia, todo dia é dia de aprender coisas novas e passá-las adiante!</b>
 </p>
 
-<h2> Full Stack Ruby on Rails Programmer - Apprentice </h2>
+<h2> Full Stack Ruby on Rails Programmer - Junior </h2>
 <h3> Cursando Ciências da Computação na Universidade Comunitária da Região de Chapecó </h3>
 
 <br>
