@@ -13,7 +13,7 @@
   Ferramentas e linguagens do dia-a-dia
 </h2>
 
-<a href="google.com"><img align="left" src="https://user-images.githubusercontent.com/95707145/182487099-7df38fb4-3c31-4a69-bff0-bf0b601dad6a.gif" style="width:40px"></a>
+<a href="https://www.google.com.br/"><img align="left" src="https://user-images.githubusercontent.com/95707145/182487099-7df38fb4-3c31-4a69-bff0-bf0b601dad6a.gif" style="width:40px"></a>
 <img align="left" src="https://user-images.githubusercontent.com/95707145/182606209-ff5465ae-c0cc-4af5-a89a-0412736a15c4.gif" style="width:40px">
 <img align="left" src="https://user-images.githubusercontent.com/95707145/182466397-e665c8e9-a8d2-49b1-8b91-6149a889a507.gif" style="width:40px">
 <img align="left" src="https://user-images.githubusercontent.com/95707145/182466816-fe6a77dc-40f3-47be-a79e-4e7494400ebb.gif" style="width:40px">
