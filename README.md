@@ -1,6 +1,6 @@
 # Saudações! <img src="https://user-images.githubusercontent.com/95707145/182452643-7af325a3-d949-4888-902d-667835518b67.gif" style="width:50px" >
 
-<h2> Full Stack Ruby on Rails Programmer - Junior </h2>
+<h2> Full Stack Ruby on Rails Programmer </h2>
 <h3> Cursando Ciências da Computação na Universidade Comunitária da Região de Chapecó </h3>
 
 <br>
