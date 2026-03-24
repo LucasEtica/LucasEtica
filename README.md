@@ -12,6 +12,7 @@
 <a href="https://ubuntu.com/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/95707145/182487099-7df38fb4-3c31-4a69-bff0-bf0b601dad6a.gif" style="width:40px"></a>
 <img align="left" src="https://user-images.githubusercontent.com/95707145/182606209-ff5465ae-c0cc-4af5-a89a-0412736a15c4.gif" style="width:40px">
 <img align="left" src="https://user-images.githubusercontent.com/95707145/182466397-e665c8e9-a8d2-49b1-8b91-6149a889a507.gif" style="width:40px">
+<img align="left" src="https://user-images.githubusercontent.com/95707145/182660693-0b14a9e7-1418-42ac-92b1-ab368b51934a.png" style="width:70px">
 <img align="left" src="https://user-images.githubusercontent.com/95707145/182466816-fe6a77dc-40f3-47be-a79e-4e7494400ebb.gif" style="width:40px">
 <img align="left" src="https://user-images.githubusercontent.com/95707145/182465139-dc4ff16f-7032-414a-ab7b-b04b9668eda9.gif" style="width:45px">
 <img align="left" src="https://user-images.githubusercontent.com/95707145/182467296-a5a5318d-9c21-4485-b3d8-dfa2b3b97250.gif" style="width:45px">
@@ -33,7 +34,6 @@
 <img align="left" src="https://user-images.githubusercontent.com/95707145/182600814-48b65430-50a7-42b9-bf00-8cdbf21c2073.jpg" style="width:40px">
 <img align="left" src="https://user-images.githubusercontent.com/95707145/182602023-7485f8a4-3a11-4f72-b6ce-e209e0785d9e.png" style="width:40px">
 <img align="left" src="https://user-images.githubusercontent.com/95707145/182602403-08bd74f3-891a-40c1-8e8a-f74604a54935.png" style="width:60px">
-<img align="left" src="https://user-images.githubusercontent.com/95707145/182660693-0b14a9e7-1418-42ac-92b1-ab368b51934a.png" style="width:70px">
 <img align="left" src="https://user-images.githubusercontent.com/95707145/182604938-a77d6b79-4319-4231-aa7f-d584814b1ee7.png" style="width:50px">
 <img align="left" src="https://user-images.githubusercontent.com/95707145/182658294-6aa031ec-adc2-44f7-b5c2-5d0ab2bc0d5e.gif" style="width:40px">
 <img align="left" src="https://user-images.githubusercontent.com/95707145/182658642-e9297a86-ac3b-476c-8f17-00a79013a8e9.gif" style="width:40px">
