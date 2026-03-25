@@ -7,7 +7,7 @@ Sou graduado em **Ciências da Computação** pela **Universidade Comunitária d
 ## Stack principal
 
 - **Back-end:** Ruby, Ruby on Rails
-- **Front-end:** JavaScript, React.js, HTML, CSS
+- **Front-end:** Ruby, Ruby on Rails, JavaScript, React.js, HTML, CSS
 - **Banco de dados:** PostgreSQL, Oracle
 - **Testes e qualidade:** RSpec
 - **Ferramentas e ambiente:** Docker, Git, Postman, Linux
