@@ -32,7 +32,6 @@ Tenho contato, estudos ou interesse em tecnologias e temas como:
 - Atuando com desenvolvimento de software
 - Evoluindo conhecimentos em **Ruby on Rails**
 - Estudando **boas práticas, refatoração, arquitetura e qualidade de código**
-- Organizando projetos pessoais e acadêmicos para fortalecer meu portfólio
 
 ## Contato
 
